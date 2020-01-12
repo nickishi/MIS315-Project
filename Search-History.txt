@@ -1,0 +1,24 @@
+
+
+
+Month: April
+Year: 2018
+Waterbody: Lisha Kill
+Species: Brown Trout
+Amount Released: 1130
+Average Size: 8.5
+
+Month: April
+Year: 2018
+Waterbody: Hannacrois Creek
+Species: Brown Trout
+Amount Released: 1870
+Average Size: 9.4
+
+Month: April
+Year: 2018
+Waterbody: Lisha Kill
+Species: Brown Trout
+Amount Released: 1130
+Average Size: 8.5
+
